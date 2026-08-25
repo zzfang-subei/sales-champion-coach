@@ -1,0 +1,4 @@
+interface:
+  display_name: "销冠教练智能系统"
+  short_description: "销售训练、实战演练与话术优化。"
+  default_prompt: "用 $sales-champion-coach 帮我做一次销售实战演练。"
